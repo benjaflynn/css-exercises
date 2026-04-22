@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+.click {
+    background-color:black;
+    color: rgb(255, 255, 255)
+}
+
+.no {
+    background-color: hsl(61, 67, 61);
+}
