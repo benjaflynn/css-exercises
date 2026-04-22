@@ -6,5 +6,10 @@
 }
 
 .no {
-    background-color: hsl(61, 67, 61);
+    background-color: hsl(61, 100%, 50%);
+}
+
+button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
 }
